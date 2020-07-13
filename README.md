@@ -1,6 +1,5 @@
-# sword to offer 剑指offer
+## sword to offer 剑指offer
+### cpp and python implementation
 
-## cpp and python implementation
-
-### A collection of solutions.
+ **A collection of solutions.**
 
